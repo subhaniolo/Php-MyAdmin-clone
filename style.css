@@ -1,0 +1,78 @@
+
+
+.prov {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 250px;
+    background-color: white;
+    height: 100%;
+    
+} 
+.table2 {
+    position: absolute;
+    left: 10px;
+    width: 250px;
+} 
+.n1 {
+    color: brown;
+    width: 100px;
+    position: absolute;
+    left: 0px;
+}
+.n2 {
+    color: chartreuse;
+    width: 100px;
+    position: absolute;
+    left: 0px;
+}
+.menu {
+    position: absolute;
+    top: 18px;
+    left: 250px;
+    background-color: white;
+}
+.tdb:hover {
+    background-color: rgba(167, 198, 238, 0.651);
+}
+.t {
+    display: block;
+    position: absolute;
+    left: 250px;
+    top: 0px;
+    width: 1116px;
+    background-color:white;
+}
+.det {
+    position:absolute;
+    left: 400px;
+    top: 400px;
+}
+.output {
+    position: absolute;
+    left: 270px;
+    top: 60px;
+    width: 80%;
+    height: 85%;
+    display: block;
+    overflow-y: auto;
+
+}
+.ctr {
+    position: absolute;
+    left: 250px;
+    top: 150px;
+    display: none;
+}
+.sql {
+    position: absolute;
+    left: 250px;
+    top: 150px;
+    display: none;
+}
+body {
+    background-color: teal ;
+}
+h1 {
+    margin-top: 0px;
+}
